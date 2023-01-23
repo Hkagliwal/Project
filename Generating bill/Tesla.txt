@@ -1,0 +1,4 @@
+
+Electric Car
+Charging rate		56 km/h			37 km/h
+Rate: 750 per day

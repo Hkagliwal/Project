@@ -1,0 +1,3 @@
+
+Mileage			17 kmpl (petrol)	23 kmpl (diesel)
+Rate: 550 per day
